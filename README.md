@@ -1,16 +1,11 @@
 #### Hi there, I'm WarpDrop 👋
 
-Welcome to my GitHub profile! I enjoy building fast, practical software and exploring new tools. 
+Welcome to my GitHub profile! I'm just getting started on my coding journey and using this space to learn, experiment, and share future projects. 
 
-#### 🚀 What I'm Working On
+#### 🚀 What I'm Up To
 
-* 🔭 **Current Focus:** Building and shipping new projects under **WarpDrop**
-* 🌱 **Currently Learning:** Exploring modern web technologies, automation, and clean architecture
-* 💬 **Ask Me About:** Software development, open-source tools, and side projects
+* 🌱 **Currently Learning:** Exploring how coding, GitHub, and software development work
+* 🛠️ **Building:** Setting up my first repositories and testing out new ideas
+* 🎯 **Goal:** Learning by building and improving step by step
 
-#### 🛠️ Tech Stack & Tools
-
-* **Languages:** [e.g., JavaScript, TypeScript, Python]
-* **Frameworks:** [e.g., React, Node.js, Next.js]
-* **Tools:** [e.g., Git, Docker, Linux]
-
+Thanks for stopping by!
