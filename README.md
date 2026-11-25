@@ -1,16 +1,16 @@
-## Hi there 👋
+#### Hi there, I'm WarpDrop 👋
 
-<!--
-**WarpDrop/WarpDrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I enjoy building fast, practical software and exploring new tools. 
 
-Here are some ideas to get you started:
+#### 🚀 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 **Current Focus:** Building and shipping new projects under **WarpDrop**
+* 🌱 **Currently Learning:** Exploring modern web technologies, automation, and clean architecture
+* 💬 **Ask Me About:** Software development, open-source tools, and side projects
+
+#### 🛠️ Tech Stack & Tools
+
+* **Languages:** [e.g., JavaScript, TypeScript, Python]
+* **Frameworks:** [e.g., React, Node.js, Next.js]
+* **Tools:** [e.g., Git, Docker, Linux]
+
